@@ -22,5 +22,30 @@
   4. before you go is there anything you can try?
 * Do not say it cannot be done: explain what can be done to salvage the situation
 * Do not be afraid to ask for help
+> Provide Options do not Make Excuses
 
-### Provide Options do not Make Excuses
+## Software Entropy
+* "software rot"
+> Don't live with broken windows
+* "broken windows": bad designs, wrong decisions, poor code
+* fix a "broken window" ASAP
+* if you don't have time to fix a "broken window" then board it up
+  1. take SOME action
+  2. biggest source of rot: neglect
+
+## Putting out Fires
+* bad code perpetuates bad code
+
+## Stone Soup & Boiled Frogs
+* make them think it's their idea
+* You want to do A
+  1. doing A will involve delays, committees, resistance (start-up fatigue)
+  2. work out what you can reasonable ask for
+  3. develop it well
+  4. show people and let them marvel
+  5. (pretend it's not important) "It would be better if we added X"
+  6. make people request you add what you want to add
+> Be a catalyst for change
+* Stone Soup Villagers
+  1. lesson about focusing too tightly
+  2. things creep up on us
