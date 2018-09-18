@@ -49,3 +49,28 @@
 * Stone Soup Villagers
   1. lesson about focusing too tightly
   2. things creep up on us
+> Remember the Big Picture
+* review what is going on around you
+
+## Good Enough Software
+* write software that's "good enough"
+* "good enough": all systems meet their user's requirements for success
+> Make Quality a Requirement Issue
+* great software today is preferable to perfect software tomorrow
+* know when to stop
+  1. don't spoil a program through overembellishment and over-refinements
+
+## Your Knowledge Portfoloio
+* knowledge and experience are your most important assets
+* "expiring assets" can quickly become obsolete
+* knowledge portfolio
+  1. invest regularly - as a habit
+  2. diversification is the key to long term success
+  3. balance between conservative and high-risk high-reward investments
+  4. buy low and sell high
+  5. review and rebalance periodically
+* building your portfolio:
+  1. invest regularly
+  2. diversify the tech you're comfortable with
+  3. manage risk - don't put all your technical eggs in one basket
+  4. buy low sell high - early adopters can really pay off
