@@ -74,3 +74,50 @@
   2. diversify the tech you're comfortable with
   3. manage risk - don't put all your technical eggs in one basket
   4. buy low sell high - early adopters can really pay off
+
+## Goals
+* learn at least one new language a year
+* read a technical book each quarter
+* read nontechnical books
+* take classes
+* participate in local user groups
+* experiment with different environments
+* stay current
+* get wired - look for content on the web
+
+## Opportunities
+* don't stop there - take the times you have something you don't know as a challenge and research
+* don't let it rest - find someone who has the answer
+* plan ahead: have something to read on hand at all times
+
+## Critical Thinking
+* think critically about what you consume (avoid zealous dogma)
+* what source you have found may not be the best source
+
+## Guru Tricks
+* know exactly what you want to ask
+* be specific
+* be polite
+* check for answer again after composing the question
+* use a meaningful subject line
+* be patient
+
+## Communicate
+* communication is important (having good ideas won't matter if you can't communicate them)
+* know what you want to say
+* plan what you want to say (outline)
+* ask yourself: does this get across what you're trying to say?
+
+## Know your audience
+* plan around your target audience
+* make an appropriate pitch
+
+## Choose your moment (don't pitch at a bad time)
+* make your content relevant in time & content
+* WISDOM
+  1. ( W )hat do you want them to learn
+  2. what is their ( I )nterest in what you've got to say?
+  3. how ( S )ophisticated are they?
+  4. how much ( D )etail do they want?
+  5. Whom do you want to ( O )wn the information?
+  6. how can you ( M )otivate them to listen to you?
