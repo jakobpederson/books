@@ -121,3 +121,29 @@
   4. how much ( D )etail do they want?
   5. Whom do you want to ( O )wn the information?
   6. how can you ( M )otivate them to listen to you?
+
+## Choose a style
+* ask what style is preferred
+* communicate your needs
+
+## Make it look good
+* poor presentation can ruin a good idea
+* learn to set page headers and footers
+* check spelling (2 times)
+
+## Involve your audience
+* get feedback
+* pick brains
+
+## Be a Listener
+* listen to people
+* encourage people to talk by asking questions
+* turn meetings into discussions
+
+## Get back to people
+* always respond to emails, voicemails, etc.
+* even if it's just a "I'll get back to you later"
+
+> It's both what you want to say and how you say it
+
+# Chapter 2: A Pragrmatic Approach
