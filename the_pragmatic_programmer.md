@@ -147,3 +147,58 @@
 > It's both what you want to say and how you say it
 
 # Chapter 2: A Pragrmatic Approach
+* Index
+  1. evils of duplication - don't duplicate knowledge
+  2. orthogonality - don't split one piece of knowledge across multiple systems
+  3. reversibility - insulate projects from changing environments
+  4. tracer bullets - style of development that allows you to gather requirements, test, designs, implement code
+  5. prototypes and post-it notes
+  6. domain languages
+  7. estimating
+
+## Evils of Duplication
+* collect, organize, maintain, harness knowledge
+* knowledge is not stable
+* instability leads to lots and lots of maintenance
+* maintenance is a routine part of the development process
+* the only way to develop software reliably: DRY - every piece of knowledge must have a single unambiguous source
+
+> Do not repeat yourself
+
+## How does duplication arise?
+* imposed - duplication was "required"
+* inadvertent - did not realize it was happening
+* impatient - duplication was easier
+* interdeveloper - multiple people duplicate a piece of information
+
+## Imposed
+* multiple representations of info
+  1. simple filter or code generator
+* documentation in code
+  1. comments use for high level explanations
+  2. comments become out of date and untrustworthy
+  3. documentation falls behind code
+  4. automate documenation updates
+* language issues
+  1. hard to work around
+  2. use header files to document
+  3. use implementation files to document nitt-gritty details
+
+## Inadvertent Duplication
+* can be subtle
+* where possible always use accessor functions to read and write the attributes of objects
+
+## Impatient Duplication
+* "short cuts make for long delays"
+* "discipline required to spend time up front to save pain later"
+
+## Interdeveloper Duplication
+* high level - have a clear design and strong technical leader and well understood division of labor
+* solution - encourage active and frequent communication
+* appoint a project librarian to facilitate the exchange of knowledge
+* centralize routines and scripts
+* read the docs
+
+> Make it easy to reuse
+
+## Orthogonality
