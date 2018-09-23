@@ -202,3 +202,47 @@
 > Make it easy to reuse
 
 ## Orthogonality
+* computing - "independence" or "decoupling"
+* two ore more things are orthogonal if changes in one do not affect any of the others
+* helicopter controls are not orthogonal
+* benefits:
+  1. design components are self-contained, independent, with single defined purpose
+  2. increased productivity
+  3. reduced risk
+* gain productivity
+  1. rduce development and testing time
+  2. promotes reuse
+  3. mathematically more efficient
+* reduced risk
+  1. diseased code isolated
+  2. reduce fragility
+  3. better tested
+  4. not tied to platform or product
+* project teams
+  1. orthogonality reduces conflict
+
+## Design
+* cooperating modules
+* layers of abstraction
+  1. reduces runaway dependencies
+* test - if you dramatically change the requirements behind a particular function, how many modules are affected? Should be one.
+* don't rely on properties of things you can't control
+
+## Toolkits and Libraries
+* take care to preserve orthogonality as you introduce 3rd party toolkits/libraries
+* when you bring in a toolkit as yourself if it breaks orthogonality (introduces changes that shouldn't be there)
+* aspect-oriented programming (AOP)
+  1. implement logging orthogonality to the thing being logged
+
+## Coding
+* keep code decoupled - write "shy" code
+  1. modules that don't rely on other modules
+  2. changes done by object
+* avoid global data
+* avoid similar functions
+
+## Testing
+* orthogonality -> easier testing
+* module-level is easeir than integration testing
+* difficulty of testing can indicate a lack of orthogonality
+* bug fix: change one module or multiple? -> does fix cause other problems?
