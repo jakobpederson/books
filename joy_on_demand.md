@@ -15,4 +15,20 @@
 * specifically: mindfulness meditation
 * mindfulness: paying attention in a particular way - on purpose, in present moment, non-judgementally
 * Sangy Khadro (Kathleen McDonald): "it is all about cultivating the mind"
+* meditation leads to happiness
+
+## Joy independent of sensual and ego pleasures
+* 3 pleasures
+  1. pleasure of the senses (eat something tasty)
+  2. pleasure of the ego (receive praise)
+  3. pleasure/joy independent of the senses or ego
+* train mind to access joy even when free of stimulation
+  1. easing into joy - resting mind to put it at a state of ease -> joy becomes accessible
+  2. inclining the mind towards joy - notice joy and give it full attention (joy that already existed)
+  3. uplifting the mind - uplift with wholesome joy: goodness, generaosity, loving kindess, compassion
+* these techniques give us the strength to deal with difficulties and emotional pain
+
+## Joy leads to success
+* joy leads to happiness and happiness leads to success
+* happiness is a deep sense of flourishing that arises from an exceptionally healthy mind
 
