@@ -246,3 +246,22 @@
 * module-level is easeir than integration testing
 * difficulty of testing can indicate a lack of orthogonality
 * bug fix: change one module or multiple? -> does fix cause other problems?
+
+## Documentation
+* orthogonality in documentation
+* true orthogonal documentation can change apperance drastically and not effect content
+
+## Living with Orthogonality
+* closely related to DRY
+
+## Reversibility
+> There are no final decisions
+
+## Flexible Architecture
+* flexibility in architecture, deployment, and vendor integration
+* keep decisions "soft"
+
+## Tracer Bullets
+* immediate feedback
+* quick, visible, repeatable
+*
