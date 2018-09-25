@@ -32,3 +32,15 @@
 * joy leads to happiness and happiness leads to success
 * happiness is a deep sense of flourishing that arises from an exceptionally healthy mind
 
+# Chapter 1: Joy Becomes You
+* charisma, calm, compassion, creativity, and success are mutually reinforcing
+* meditation can make you more confident
+* 3 kinds of confidence
+  1. confidence arising from knowing
+  2. confidence arising from equanimity
+  3. condience arising from resilience
+
+## The Luck of the Happy
+* being born in the right circumstances
+* being in the right place in the right time
+* being surrounded by good people
