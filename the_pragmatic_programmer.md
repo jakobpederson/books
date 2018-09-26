@@ -264,4 +264,37 @@
 ## Tracer Bullets
 * immediate feedback
 * quick, visible, repeatable
-*
+> Use Tracer Bullets to Find the Target
+* tracer code is not disposable, you keep it for lie
+* contains all error checking, structuring, documentation of prod code, just not functional
+* a project is never finished
+
+## Advantages
+* users get to see something working early
+* developers build a structure to work in
+* you have an integration platform
+* you have something to demonstrate
+* you have a better feel for progress
+
+## Tracer Bullets don't always hit their target
+* show what you hit, not your target
+* adjust aim after tracer
+
+## Tracer Code versus Prototyping
+* prototyping ends with throwing away prototype
+* tracer constructs trivial implementation to build on
+* tracer is lean but complete and forms skeleton of project
+
+## Prototypes and Post-it Notes
+* prototyping can be done with post-its and white boarding or paint program
+* prototyping is fast & cheap compared to production code
+
+## Things to Prototype
+* anything that carries risk
+* anything that hasn't been tried before
+* anything you aren't comfortable with'
+> Prototype to Learn
+
+
+
+
