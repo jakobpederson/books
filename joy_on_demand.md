@@ -44,3 +44,12 @@
 * being born in the right circumstances
 * being in the right place in the right time
 * being surrounded by good people
+
+## Chapter 2: Just one breath? Surely you jest
+* workarounds for training (which is hard)
+  1. use a community
+  2. incorporate training into daily life
+  3. joy:
+    * easing into it skillfully
+    * making it fun
+* "joy point" - when meditation practice becomes self-sustaining
