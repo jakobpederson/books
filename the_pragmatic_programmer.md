@@ -202,3 +202,99 @@
 > Make it easy to reuse
 
 ## Orthogonality
+* computing - "independence" or "decoupling"
+* two ore more things are orthogonal if changes in one do not affect any of the others
+* helicopter controls are not orthogonal
+* benefits:
+  1. design components are self-contained, independent, with single defined purpose
+  2. increased productivity
+  3. reduced risk
+* gain productivity
+  1. rduce development and testing time
+  2. promotes reuse
+  3. mathematically more efficient
+* reduced risk
+  1. diseased code isolated
+  2. reduce fragility
+  3. better tested
+  4. not tied to platform or product
+* project teams
+  1. orthogonality reduces conflict
+
+## Design
+* cooperating modules
+* layers of abstraction
+  1. reduces runaway dependencies
+* test - if you dramatically change the requirements behind a particular function, how many modules are affected? Should be one.
+* don't rely on properties of things you can't control
+
+## Toolkits and Libraries
+* take care to preserve orthogonality as you introduce 3rd party toolkits/libraries
+* when you bring in a toolkit as yourself if it breaks orthogonality (introduces changes that shouldn't be there)
+* aspect-oriented programming (AOP)
+  1. implement logging orthogonality to the thing being logged
+
+## Coding
+* keep code decoupled - write "shy" code
+  1. modules that don't rely on other modules
+  2. changes done by object
+* avoid global data
+* avoid similar functions
+
+## Testing
+* orthogonality -> easier testing
+* module-level is easeir than integration testing
+* difficulty of testing can indicate a lack of orthogonality
+* bug fix: change one module or multiple? -> does fix cause other problems?
+
+## Documentation
+* orthogonality in documentation
+* true orthogonal documentation can change apperance drastically and not effect content
+
+## Living with Orthogonality
+* closely related to DRY
+
+## Reversibility
+> There are no final decisions
+
+## Flexible Architecture
+* flexibility in architecture, deployment, and vendor integration
+* keep decisions "soft"
+
+## Tracer Bullets
+* immediate feedback
+* quick, visible, repeatable
+> Use Tracer Bullets to Find the Target
+* tracer code is not disposable, you keep it for lie
+* contains all error checking, structuring, documentation of prod code, just not functional
+* a project is never finished
+
+## Advantages
+* users get to see something working early
+* developers build a structure to work in
+* you have an integration platform
+* you have something to demonstrate
+* you have a better feel for progress
+
+## Tracer Bullets don't always hit their target
+* show what you hit, not your target
+* adjust aim after tracer
+
+## Tracer Code versus Prototyping
+* prototyping ends with throwing away prototype
+* tracer constructs trivial implementation to build on
+* tracer is lean but complete and forms skeleton of project
+
+## Prototypes and Post-it Notes
+* prototyping can be done with post-its and white boarding or paint program
+* prototyping is fast & cheap compared to production code
+
+## Things to Prototype
+* anything that carries risk
+* anything that hasn't been tried before
+* anything you aren't comfortable with'
+> Prototype to Learn
+
+
+
+
