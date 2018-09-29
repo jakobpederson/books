@@ -53,3 +53,32 @@
     * easing into it skillfully
     * making it fun
 * "joy point" - when meditation practice becomes self-sustaining
+
+## Don't worry be lazy
+* "wise laziness" - too lazy to do unnecessary work
+
+## How long before I get benefits?
+* between 50 & 100 hours
+* study shows 100 minutes
+* takes a long time to master but short time to change life
+
+## Just one breath? Surely you can't be serious
+> Formal Practice:
+> One Mindful breath
+> for duration of one slow deep breath give full attention to your breath in a gentle way (bring attention to the feeling in nose or belly)
+* being in the present temporarily free of regret and worry
+
+## Gentle and intense
+* 2 key ingredients for optimization
+  1. gentleness in attitude
+    * physical relaxation
+    * mental ease
+    * loving kindness
+  2. intensity of attention
+    * the more intense the more freedom
+    * longer lasting benefits
+* high intensity interval training (HIIT)
+  1. 30 min of sustained training == 1 minute of going all out
+  2. apply concept to meditation
+* general rule: always choose gentleness over intensity
+
