@@ -295,6 +295,29 @@
 * anything you aren't comfortable with'
 > Prototype to Learn
 
+## How to use prototypes
+* Details to ignore
+  * correctness
+  * completeness
+  * robustness
+  * style
+  * gloss over details
 
+## Prototyping architecture
+* specific areas to look for:
+  * are responsibilities of the major components defined and appropriate?
+  * collaborations between major components well defined?
+  * is coupling minimized?
+  * can you identify potential sources of duplication?
+  * are interface definitions acceptable?
+  * does every module have an access path to the data it needs during execution? Or when it needs it?
 
+## How not to use prototypes
+* emphasize prototypes are disposable code
+* tracer bullet approach safer in some cases
+* saves you time and money and suffering to not ship prototypes
 
+## Domain languages
+* languages influence how you think about a problem
+* try to write code use the vocabulary of the application domain
+* you may be able to invent a minilanguage tailored to the application domain
