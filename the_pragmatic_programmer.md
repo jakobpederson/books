@@ -321,3 +321,18 @@
 * languages influence how you think about a problem
 * try to write code use the vocabulary of the application domain
 * you may be able to invent a minilanguage tailored to the application domain
+* fake language need not be exceutbale
+> Program close to the Problem Domain
+* code at higher levels of abstraction (ignore implementation details)
+
+## Implementing a mini-language
+* Backus-Naur Form (BNS): context free grammars recursively
+* implment by parse or by extending
+
+## Data Languages and Imperatible Languages
+* data languages: produce some form of data structure used by an application
+* example: send mail program -> compiled to generate a data structure
+* imperative language: take it a step further -> language is executed so can contain statements, control constructs
+* can use imperative language to ease program maintenance
+  1. integrate info from a legacy application into your new GUI development
+  2. "screen scraping": application connects to a mainframe application as if it were a human user, issuing keystrokes and "reading" responses
