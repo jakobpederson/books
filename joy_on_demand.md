@@ -82,3 +82,37 @@
   2. apply concept to meditation
 * general rule: always choose gentleness over intensity
 
+## Make breathing a habit
+* habit is a loop consisting of 3 parts:
+  1. cue - activates habit
+  2. routine - behavior
+  3. reward - perceived benefit
+* cues for mindful breathing habit
+  * first moment you wake up
+  * moment you lie down at night
+  * hourly chime to phone
+  * everytime you have to wait (boredom becomes the cue)
+
+## Joy starts here, with the first breath
+* initially joy from any of 4 sources
+  1. joy of novelty - experience something new (short lived)
+  2. joy of perceived agency - can control what we thought we could not (short lived)
+  3. joy of momentary relief from afflication - depression, despair, etc (sustainable)
+  4. joy of ease - available when the mind is alert & relaxed (basic meditative state) (sustainable)
+* the ability to reliably access a highly sustainable source of gentle joy with practice
+
+## Stupidest advice Gopi has ever received from me
+* one breath a day leads to an hour a day
+* one breath increases your mind training
+
+# Chapter 3: From on breath to one Googol
+* fruits of meditation
+  * free coins available to all
+  * the more you get the better off you are
+
+## The Basic Training: settling the mind
+* simplest meditative skill - settle the mind
+* resting the mind into some degree of stillness
+* 3 methods:
+* 1. anchoring - bringing gentle awareness to a chosen object (and returning awareness if it wanders) like breath, sensory experiences, etc.
+* 2. resting - cease work or movement to relax
