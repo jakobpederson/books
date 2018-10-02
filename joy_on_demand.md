@@ -114,5 +114,27 @@
 * simplest meditative skill - settle the mind
 * resting the mind into some degree of stillness
 * 3 methods:
-* 1. anchoring - bringing gentle awareness to a chosen object (and returning awareness if it wanders) like breath, sensory experiences, etc.
-* 2. resting - cease work or movement to relax
+  1. anchoring - bringing gentle awareness to a chosen object (and returning awareness if it wanders) like breath, sensory experiences, etc.
+  2. resting - cease work or movement to relax
+    * methods: imagery - imagine a butterfly resting gently on a flower moving slowly in the breeze
+    * mantra: there is nowhere to go and nothing to do for this moment, except rest
+  3. being - shifting from doing to being
+    * sitting and experiencing the present moment
+    * non-doing/sitting without agenda
+    * attention on the present - doing it right (knowing you are sitting)
+* practices have 2 things in common:
+  1. mental stillness
+  2. attention to the present moment
+* leads to a state where the mind is alert and relaxed
+> Formal Practice
+> 5 min - 3 min exploring the 3 methods, 2 min freestyling
+> Setup: sit in a place that allows you to be alert and relaxed
+> Anchoring (1 minute):
+> return to the breath (bring gentle attention to the breath)
+> Resting (1 minute):
+> rest the mind - imagery or mantra
+> Being (1 minute):
+> sit without agenda
+> Freestyle (2 minutes)
+
+## Different Meditative Stroke for Different Meditating Folks
