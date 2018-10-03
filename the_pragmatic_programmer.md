@@ -335,3 +335,28 @@
 * imperative language can be used to ease program maintenance
   * integrate information from a legacy application into your new GUI development
   * "screen scraping": application that connects to a mainframe application as if it were a human user, issuing keystrokes and "reading" responses
+
+## Stand-Alone and Emedded Languages
+* minilanguage doesn't have to be used directly by an application to be useful
+* a specification language can be used to create metadata used by the program
+* embed high-level imperative languages directly into your application that execute when the code runs, this helps with maintenance
+
+## Easy Development or Easy Maintenance
+* extendibility and maintenance
+* probably best to adopt more complex and readable language up front
+
+## Estimating
+> Estimate to avoid surprises
+* develop the skill to estimate
+
+## How accurate is accurate enough
+* different contexts require different levels of accuracy
+* grandma asking when you'll arrive vs a diver trapped underwater
+* units matter:
+  1. 1-15 days => days
+  2. 3-8 weeks => weeks
+  3. 8-30 weeks => months
+  4. 30+ weeks => think hard
+
+## Where do estimates come from?
+* ask someone who has done it before (see how their problem got solved)
