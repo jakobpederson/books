@@ -138,3 +138,12 @@
 > Freestyle (2 minutes)
 
 ## Different Meditative Stroke for Different Meditating Folks
+* some methods work better on individuals than others
+* best method can change depending on situation
+* start with favorite than change to another if needed
+* experiment with different methods
+
+## I don't settle the mind - it settles itself
+* can't directly control snowflakes in a snow glob
+* settle the globe to still the snowflakes
+* create conditions conducive to settling the mind
