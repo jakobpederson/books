@@ -360,3 +360,15 @@
 
 ## Where do estimates come from?
 * ask someone who has done it before (see how their problem got solved)
+* see how their problem got solved
+
+## Understand what is being asked
+* 1st part is building an understanding of what is being asked
+* get grasp of domain: assuming x and y it should take 20 minutes
+
+## Build a model of the System
+* baesd on your understand, build a rough and ready bare bones mental model
+* modeling can lead to discovery of underlying patterns and processes
+* building the model introduces inaccuracies into the estimating process
+* simplicity vs accuracy
+
