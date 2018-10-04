@@ -147,3 +147,7 @@
 * can't directly control snowflakes in a snow glob
 * settle the globe to still the snowflakes
 * create conditions conducive to settling the mind
+* vital key: put effort into creating the right conditions for what you want to happen and then let go and allow things to happen
+* skillful combination of wise effort and letting go
+* familiarization - the more the mind is in contact with any mental quality the more familiar it becomes the more familiar it gets the more quickly and easily get to that state
+
