@@ -372,3 +372,109 @@
 * building the model introduces inaccuracies into the estimating process
 * simplicity vs accuracy
 
+## Break Model into Components
+* decompose model into components
+* identify parameters that effect how it contributes to the overall model
+
+## Give each parameter a value
+* work out which parameters have the most impact on the result
+* parameters that have additive values less significant than ones with multiplicative or divisive
+* have jusitfiable way of calculating critical parameters (transactional arrival rate, time taken for a request)
+
+## Calculate the Answers
+* run multiple calculations with varying values for parameters
+* couch answer in terms of parameters
+
+## Keep Track of your Estimating Prowess
+* record estimates to see how close you were
+* analyze estimates that were off too
+* learn how to make better estimates
+
+## Estimating Project Schedules
+* the only way to determinte the timetable for a project is by gaining experience on that project
+* incremental development
+  * check requirements
+  * analyze risk
+  * design, implement, integrate
+  * validate with users
+  * repeat
+> iterate the schedule with code
+* each iteration refines your estimate
+
+## What to say when asked for an estimate
+* I'll get back to you
+* slow the process down
+* quick estimates will come back to haunt you
+
+# Chapter 3: The Basic Tools
+## The power of plain text
+* programmer bae material is knowledge
+* best format for storing knowledge is plain text
+* what is plain text?
+  * printable characters in a form that can be read and understood by people
+* plain text does not mean unstructured
+* plain text tends to be at a higher level than a straight binary encoding
+* problem with most binary formats in that the context necessary to understand the data is separate from the data itself
+* data is meaningless without the application logic to parse it
+> keep knowledge in plain text
+* drawbacks
+  * it takes up more space
+  * it's more computationally expensive
+* in cases where the drawbacks mean you can't use plain text you may probably store metadata about the raw data
+
+## Power of Text
+* benefits:
+  * insurance against obsolescence
+  * leverage
+  * easier testing
+
+## Insurance against obsolescence
+* human readable forms of data and self describing data will outlive all other forms of data
+* as long as data survives you have have a chance to use it
+
+## Leverage
+* virtually every tool in the computing universe can operate on plain text
+> Unix Philosophy:
+> design around small tools each intended to do one thing
+> philsoophcy enabled by using a common underlying format - line oriented plain text file
+* plain text allows simple diffs
+
+## Easier Testing
+* easy to analyze, add, update test data
+
+## Lowest Common Denominator
+* plain text allows a common standard
+
+## Shell games
+* as a work bench is to a carpenter so a command shell is to a probrammer
+* allows for automation
+* allows for using full power of tools
+* allows for combining tools to create macros
+* WYSIWYG - what you see is what you get
+* GUI limits you to their designer specifications
+* shell: allows you to quickly combine commands
+> use the power fo command shells
+
+## Shell Utilities and Windows Ssytems
+## Power Editing
+* you need to manipulate text as effortlessly as possible
+
+## One Editor
+* use one editor for all editing tasks
+> use a single editor well
+* choose an editor, know it thoroughly
+* available on all your platforms
+
+## Editor Features
+* configurable - all aspects
+* extensible - able to integrate with whatever compiler environment you are using
+* programmable - program the editor to perform complex, multistep tasks
+
+## Productivity
+* some people use notepad
+* auto-indenting
+
+## Where to go from here
+* if: I only use basic fatures of different editors, then: pick a powerful editor and learn it well
+* if: I have a favorite editor but I don't use all it's features, then: learn them
+* if: I have a favorite editor and use it where possible, then: expand and use it for more
