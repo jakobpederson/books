@@ -150,4 +150,31 @@
 * vital key: put effort into creating the right conditions for what you want to happen and then let go and allow things to happen
 * skillful combination of wise effort and letting go
 * familiarization - the more the mind is in contact with any mental quality the more familiar it becomes the more familiar it gets the more quickly and easily get to that state
+  * wise effort
+  * familiarization
+  * letting go
 
+## Meditation is not about not thinking
+* meditation is not about suppressing thoughts
+* allow the mood to settle on its own terms and its own time
+* eventually thoughts do slow down but not from suppression
+
+## Mind training is like cooking: the three mental factors in meditations
+> the secret to effective meditating: skillful management of effort
+* meditator does three things:
+  1. periodically arouses mental energy
+  2. periodically calms the mind
+  3. periodically watches the mind with equanimity
+* balance: equanimous watching - mental relaxation - mental energy
+* key: watch yourself while you meditate
+  * too much tension - apply mental relaxation
+  * too sleepy - apply mental energy
+> the key: watching
+
+> Formal Practice: Puppoy Dog Meditation
+> Setup: sit in any posture that allows you to be alert and relaxed
+> Relax (2 minutes): relax but feel free to bring the mind bak to the breath
+> Rejoice (2 minutes): if mind seettled: "mind is settled on breath, I am happy." If attention wanders: "I have a breath, I am happy."
+> Resolve (2 minutes): resolve for attention to remain on the breath
+> Refine (2 minutes): attend the suble nature of breath
+> Release (2 minutes): let go of all effort and let mind be
